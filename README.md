@@ -1,3 +1,3 @@
-# Kubeflow-Pipelines
+# **How to Kubeflow**
 
-Learning to use how kubeflow pipelines work
+A repository for different guides for **Kubeflow**
